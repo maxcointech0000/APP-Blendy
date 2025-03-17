@@ -1,4 +1,4 @@
-![Cream Brown Promotion Flyer Buy 1 Get 1 Sale Instagram Post (1)](https://github.com/user-attachments/assets/00ff6c38-464c-419b-8eb0-2d13397fe3f0)
+![Cream Brown Promotion Flyer Buy 1 Get 1 Sale Instagram Post](https://github.com/user-attachments/assets/a4a02af3-d84b-4170-b013-3895d24a5af6)
 
 ## What's Blendy app?
 Blendy is a real-time social media app built with React Native. It features a Google/Facebook login, live updates, media sharing, and interactive features such as likes, comments, and etc.
