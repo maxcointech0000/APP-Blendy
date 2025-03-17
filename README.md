@@ -73,7 +73,7 @@ npm install -g expo-cli  && npm install convex  && npm install svix && npx expo 
 
 Live Server Deployment
 ```
-npx expo deploy && npx expo start
+npx convex deploy && npx expo start
 ```
 #
 Thank you for checking out Blendy! Your support means a lot. Happy coding! 
