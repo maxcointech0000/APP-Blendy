@@ -64,9 +64,8 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook || Add in ⚙️ Convex Environment Vari
 ### Install the requirements
 The following command allows you to install all the requirements 
 
- Quick Setup (One Command)
 ```
-npx create-expo-app@latest .  && npm install convex  && npm install svix && npx expo install expo-image-picker expo-image expo-file-system expo-navigation-bar && npm install date-fns
+npm install -g expo-cli  && npm install convex  && npm install svix && npx expo install expo-image-picker expo-image expo-file-system expo-navigation-bar && npm install date-fns
 ```
  📲💻 Run Expo App on Device or Simulator
 - Android/iOS Device: Scan the QR code in the Expo Go app
