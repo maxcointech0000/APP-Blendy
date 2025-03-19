@@ -16,6 +16,8 @@ Blendy is a real-time social media app built with React Native. It features a Go
 
   
 ![Blendy  The Social Media App](https://github.com/user-attachments/assets/eb7d7d15-6f1a-49a4-9dc1-31c32945b162)
+
+App demo: https://blendy-download.vercel.app
 # Features
 ### 👀 Basic
 - One-Click Login
