@@ -50,7 +50,7 @@ App demo: https://blendy-download.vercel.app
 - Bookmark Posts for later
 - Zoom View on click for a detailed look
 
-mailto: abhishekganvirr@gmail.com
+mailto: max.coin.tech@gmail.com
 
 # Initialization
 
