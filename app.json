@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "blendy",
+    "slug": "blendy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/blendy.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/blendy.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abhiganvir.blendy",
+      "permissions": ["INTERNET"]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/blendy.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/blendy.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+
+      "typedRoutes": true
+    },
+    "extra": {
+      "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_ZGFybGluZy1jaXZldC05Ny5jbGVyay5hY2NvdW50cy5kZXYk",
+      "CONVEX_DEPLOYMENT": "dev:academic-kangaroo-398",
+      "EXPO_PUBLIC_CONVEX_URL": "https://academic-kangaroo-398.convex.cloud",
+      "CLERK_WEBHOOK_SECRET": "whsec_Y6zw1i59V6UJhzOh1ZiJxptSH+1yQeaO",
+
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f6b93c80-c6ee-4692-8379-c032750cef13"
+      }
+    },
+    "owner": "abhiganvir"
+  }
+}
